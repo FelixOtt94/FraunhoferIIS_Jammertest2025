@@ -25,3 +25,5 @@ dataset/Sample_Area2_0000000_0024999.h5
 /dataset/Sample_Area2_0575000_0599999.h5
 /dataset/Sample_Area2_0600000_0624999.h5
 /dataset/Sample_Area2_0625000_0646510.h5
+
+/dataset/*.h5
