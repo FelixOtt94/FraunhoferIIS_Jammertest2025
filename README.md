@@ -1,6 +1,6 @@
 # Jammertest 2025 GNSS Interference Dataset
 
-<span style="color: red;">**This repository contains LFS objects. You can download the full dataset via the following Gitlab repository (which is identical):**</span>
+**This repository contains LFS objects. You can download the full dataset via the following Gitlab repository (which is identical):**
 <https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/fraunhoferIIS_jammertest2025>
 
 This repository contains a curated GNSS interference dataset recorded during **Jammertest 2025** in Andøya, Norway. Jammertest is an authority-controlled outdoor measurement campaign that enables safely managed GNSS jamming, spoofing, and meaconing experiments under realistic propagation conditions.
